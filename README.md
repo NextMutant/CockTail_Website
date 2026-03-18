@@ -6,25 +6,12 @@
   <br />
 
    <div>
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    
   </div>
 
-  <h3 align="center">Stunning GSAP Cocktail Website</h3>
+  <h3 align="center"> GSAP Cocktail Website</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-
-
-Build and deploy a stunning GSAP-powered cocktail website using React and Tailwind CSS—a modern, scroll-driven experience packed with advanced animations. Bring your design to life with dynamic SplitText reveals, smooth parallax scrolling, and scroll-triggered effects using GSAP’s ScrollTrigger. Lock sections in place with pinned animations, sync video playback to scroll position for cinematic storytelling, and enhance visual impact with scroll-based image masking. Create a custom animated carousel, craft seamless timeline animations across sections, and ensure a fully responsive UI that adapts beautifully across all screen sizes.
 
 
 
@@ -64,8 +51,6 @@ And many more, including enhanced security and optimized video performance!
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
 
 **Prerequisites**
 
